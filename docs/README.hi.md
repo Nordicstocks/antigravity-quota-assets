@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://open-vsx.org/extension/Nordicstocks/antigravity-quota-monitor"><img src="https://img.shields.io/badge/Open--VSX-v2.0.3-blue?style=for-the-badge" alt="Open VSX Version"></a>
+  <a href="https://open-vsx.org/extension/Nordicstocks/antigravity-quota-monitor"><img src="https://img.shields.io/badge/Open--VSX-v2.0.4-blue?style=for-the-badge" alt="Open VSX Version"></a>
   <a href="https://buy.polar.sh/polar_cl_xdY0LqtPIfPHfnG9o8Wo5QIIpJRlvhxQOZ6vL4g5jIB"><img src="https://img.shields.io/badge/💎_Lifetime_Pro-€9.99-gold?style=for-the-badge" alt="Lifetime Pro"></a>
-  <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW"><img src="https://img.shields.io/badge/🔄_Monthly_Pro-€2.49%2Fmo-orange?style=for-the-badge" alt="Monthly Pro"></a>
+  <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW"><img src="https://img.shields.io/badge/🔄_Monthly_Pro-€2.99%2Fmo-orange?style=for-the-badge" alt="Monthly Pro"></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW">
-    <img src="https://img.shields.io/badge/🔄_PRO_MONTHLY-€2.49%2Fmo-1f6feb?style=for-the-badge" height="40" alt="Subscribe Monthly">
+    <img src="https://img.shields.io/badge/🔄_PRO_MONTHLY-€2.99%2Fmo-1f6feb?style=for-the-badge" height="40" alt="Subscribe Monthly">
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 | `antigravityQuota.selectDisplayMode` | Antigravity Quota: स्टेटस बार का डिस्प्ले मोड बदलें |
 | `antigravityQuota.selectLanguage` | Antigravity Quota: भाषा चुनें / Language |
 | `antigravityQuota.refresh` | Antigravity Quota: अभी डेटा रीफ़्रेश करें |
-| `antigravityQuota.buyPro` | Antigravity Quota: Pro में अपग्रेड करें (€2.49/माह या €9.99 एकमुश्त) |
+| `antigravityQuota.buyPro` | Antigravity Quota: Pro में अपग्रेड करें (€2.99/माह या €9.99 एकमुश्त) |
 | `antigravityQuota.enterLicense` | Antigravity Quota: Pro लाइसेंस कुंजी दर्ज करें |
 | `antigravityQuota.refreshLicense` | Antigravity Quota: Pro लाइसेंस दोबारा जाँचें |
 | `antigravityQuota.setResetAlarm` | Antigravity Quota: कोटा रीसेट होने पर याद दिलाएँ (Pro) |

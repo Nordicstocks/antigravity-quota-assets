@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://open-vsx.org/extension/Nordicstocks/antigravity-quota-monitor"><img src="https://img.shields.io/badge/Open--VSX-v2.0.3-blue?style=for-the-badge" alt="Open VSX Version"></a>
+  <a href="https://open-vsx.org/extension/Nordicstocks/antigravity-quota-monitor"><img src="https://img.shields.io/badge/Open--VSX-v2.0.4-blue?style=for-the-badge" alt="Open VSX Version"></a>
   <a href="https://buy.polar.sh/polar_cl_xdY0LqtPIfPHfnG9o8Wo5QIIpJRlvhxQOZ6vL4g5jIB"><img src="https://img.shields.io/badge/💎_Lifetime_Pro-€9.99-gold?style=for-the-badge" alt="Lifetime Pro"></a>
-  <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW"><img src="https://img.shields.io/badge/🔄_Monthly_Pro-€2.49%2Fmo-orange?style=for-the-badge" alt="Monthly Pro"></a>
+  <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW"><img src="https://img.shields.io/badge/🔄_Monthly_Pro-€2.99%2Fmo-orange?style=for-the-badge" alt="Monthly Pro"></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW">
-    <img src="https://img.shields.io/badge/🔄_PRO_MONTHLY-€2.49%2Fmo-1f6feb?style=for-the-badge" height="40" alt="Subscribe Monthly">
+    <img src="https://img.shields.io/badge/🔄_PRO_MONTHLY-€2.99%2Fmo-1f6feb?style=for-the-badge" height="40" alt="Subscribe Monthly">
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 | `antigravityQuota.selectDisplayMode` | Antigravity Quota: 變更狀態列顯示模式 |
 | `antigravityQuota.selectLanguage` | Antigravity Quota: 選擇語言 |
 | `antigravityQuota.refresh` | Antigravity Quota: 立即重新整理資料 |
-| `antigravityQuota.buyPro` | Antigravity Quota: 升級至 Pro（€2.49/月或買斷 €9.99） |
+| `antigravityQuota.buyPro` | Antigravity Quota: 升級至 Pro（€2.99/月或買斷 €9.99） |
 | `antigravityQuota.enterLicense` | Antigravity Quota: 輸入 Pro 授權金鑰 |
 | `antigravityQuota.refreshLicense` | Antigravity Quota: 重新驗證 Pro 授權 |
 | `antigravityQuota.setResetAlarm` | Antigravity Quota: 配額重設時提醒我（Pro） |

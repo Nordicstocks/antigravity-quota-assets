@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://open-vsx.org/extension/Nordicstocks/antigravity-quota-monitor"><img src="https://img.shields.io/badge/Open--VSX-v2.0.3-blue?style=for-the-badge" alt="Open VSX Version"></a>
+  <a href="https://open-vsx.org/extension/Nordicstocks/antigravity-quota-monitor"><img src="https://img.shields.io/badge/Open--VSX-v2.0.4-blue?style=for-the-badge" alt="Open VSX Version"></a>
   <a href="https://buy.polar.sh/polar_cl_xdY0LqtPIfPHfnG9o8Wo5QIIpJRlvhxQOZ6vL4g5jIB"><img src="https://img.shields.io/badge/💎_Lifetime_Pro-€9.99-gold?style=for-the-badge" alt="Lifetime Pro"></a>
-  <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW"><img src="https://img.shields.io/badge/🔄_Monthly_Pro-€2.49%2Fmo-orange?style=for-the-badge" alt="Monthly Pro"></a>
+  <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW"><img src="https://img.shields.io/badge/🔄_Monthly_Pro-€2.99%2Fmo-orange?style=for-the-badge" alt="Monthly Pro"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge" alt="License"></a>
 </p>
 
@@ -24,7 +24,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW">
-    <img src="https://img.shields.io/badge/🔄_SUBSCRIBE_MONTHLY-€2.49%2Fmonth-1f6feb?style=for-the-badge&logo=repeat" height="40" alt="Subscribe Monthly">
+    <img src="https://img.shields.io/badge/🔄_SUBSCRIBE_MONTHLY-€2.99%2Fmonth-1f6feb?style=for-the-badge&logo=repeat" height="40" alt="Subscribe Monthly">
   </a>
 </p>
 
@@ -79,7 +79,7 @@ See your remaining AI quota, visual progress bars, **live countdown + exact loca
 ## ⚡ Free vs ⭐ Pro Features
 
 <!-- FEATURES_TABLE_START -->
-| Feature | 🆓 Free Version | ⭐ Pro Edition (€2.49/mo or €9.99 One-Time) |
+| Feature | 🆓 Free Version | ⭐ Pro Edition (€2.99/mo or €9.99 One-Time) |
 | :--- | :---: | :---: |
 | **Real-time Status Bar Widget & Dual-Window Countdowns** | ✅ Included | **✅ Included** |
 | **Modern `agy` Daemon & CLI Compatibility** | ✅ Included | **✅ Included** |
@@ -108,7 +108,7 @@ See your remaining AI quota, visual progress bars, **live countdown + exact loca
 ### 1. Purchase Pro License
 Choose the plan that suits you best:
 - **[💎 Buy Lifetime Pro — €9.99 one-time](https://buy.polar.sh/polar_cl_xdY0LqtPIfPHfnG9o8Wo5QIIpJRlvhxQOZ6vL4g5jIB)** (One-time payment, includes future updates)
-- **[🔄 Monthly Pro — €2.49/month](https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW)** (Billed monthly, cancel anytime)
+- **[🔄 Monthly Pro — €2.99/month](https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW)** (Billed monthly, cancel anytime)
 
 Your license key is displayed on checkout and sent to your email.
 

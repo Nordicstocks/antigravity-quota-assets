@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://open-vsx.org/extension/Nordicstocks/antigravity-quota-monitor"><img src="https://img.shields.io/badge/Open--VSX-v2.0.4-blue?style=for-the-badge" alt="Open VSX Version"></a>
+  <a href="https://open-vsx.org/extension/Nordicstocks/antigravity-quota-monitor"><img src="https://img.shields.io/open-vsx/v/Nordicstocks/antigravity-quota-monitor?style=for-the-badge&label=Open%20VSX&color=blue" alt="Open VSX Version"></a>
   <a href="https://buy.polar.sh/polar_cl_xdY0LqtPIfPHfnG9o8Wo5QIIpJRlvhxQOZ6vL4g5jIB"><img src="https://img.shields.io/badge/💎_Lifetime_Pro-€9.99-gold?style=for-the-badge" alt="Lifetime Pro"></a>
   <a href="https://buy.polar.sh/polar_cl_avl0NAvpPN4jQD0vZRRg11yZ92BQ2OHCKw29f4dxlPW"><img src="https://img.shields.io/badge/🔄_Monthly_Pro-€2.99%2Fmo-orange?style=for-the-badge" alt="Monthly Pro"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/Nordicstocks/antigravity-quota-monitor/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Commercial-lightgrey?style=for-the-badge" alt="License: Commercial"></a>
 </p>
 
 <p align="center">
@@ -133,4 +133,4 @@ This extension is built with local-first privacy:
 ---
 
 ## 📄 License
-[MIT License](https://opensource.org/licenses/MIT) © Nordicstocks
+Commercial license — all rights reserved. See [LICENSE](https://github.com/Nordicstocks/antigravity-quota-monitor/blob/main/LICENSE). © 2026 Nordic Moonlight / Nordicstocks
